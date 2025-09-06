@@ -1,5 +1,10 @@
 # 🚀 60 Days DSA Using Java Challenge  
 
+![Java](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=java&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/Shakthivelk24/DSA_JAVA?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Shakthivelk24/DSA_JAVA?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Shakthivelk24/DSA_JAVA?style=for-the-badge)
+
 Welcome to the **60 Days DSA (Data Structures & Algorithms) Challenge**! 🎯  
 This challenge is designed to help you **master problem-solving, strengthen Java fundamentals, and build consistency** in coding.  
 
