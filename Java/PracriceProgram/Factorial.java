@@ -17,3 +17,7 @@ public class Factorial {
         System.out.println("Result is " + res);
      }
 }
+// Output
+// Enter a number : 
+// 4
+// Result is 24
