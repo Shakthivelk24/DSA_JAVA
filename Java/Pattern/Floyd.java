@@ -13,6 +13,7 @@ public class Floyd {
             }
            System.out.println();
         }
+        input.close();
     }
 }
 // Output

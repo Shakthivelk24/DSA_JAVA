@@ -18,6 +18,7 @@ public class InvertedTriangleL {
             num++;
             System.out.println();
         }
+        input.close();
     }
 }
 // Output

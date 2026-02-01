@@ -15,6 +15,7 @@ public class Factorial {
         Factorial fact = new Factorial();
         int res = fact.fact(n);
         System.out.println("Result is " + res);
+        input.close();
      }
 }
 // Output

@@ -14,6 +14,7 @@ public class TriangleL {
             }
             System.out.println();
         }
+        input.close();
     }
 }
 // Output

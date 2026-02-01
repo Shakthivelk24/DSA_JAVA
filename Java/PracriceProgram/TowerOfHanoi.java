@@ -15,6 +15,7 @@ public class TowerOfHanoi {
         System.out.println("Enter a number : ");
         int n = input.nextInt();
         TOH('A','B','C',n);
+        input.close();
     }
 }
 // OutPut 

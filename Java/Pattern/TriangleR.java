@@ -23,6 +23,7 @@ public class TriangleR {
             }
             System.out.println();
         }
+        input.close();
     }
 }
 // Output

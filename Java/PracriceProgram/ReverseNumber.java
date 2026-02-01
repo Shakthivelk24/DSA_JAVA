@@ -31,6 +31,7 @@ public class ReverseNumber {
         }
 
         System.out.println(reverse);
+        input.close();
     }
 }
 // Output

@@ -6,5 +6,6 @@ public class LastDigit {
         System.out.println("Enter a number : ");
         int n = input.nextInt();
         System.out.print("The Last digit is "+(n%10));
+        input.close();
      }
 }

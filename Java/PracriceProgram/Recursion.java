@@ -7,6 +7,7 @@ public class Recursion {
         int n = input.nextInt();
         InnerRecursion result = new InnerRecursion();
         System.out.println("Result is "+result.fun(n));
+        input.close();
     }
 }
 class InnerRecursion {

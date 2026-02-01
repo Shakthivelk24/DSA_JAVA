@@ -32,6 +32,7 @@ public class HollowDiamond {
             }
             System.out.println();
         }
+        input.close();
     }
 }
 // Output

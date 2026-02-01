@@ -14,6 +14,7 @@ public class InvertedTriangleR {
             num++;
             System.out.println();
         }
+        input.close();
     }
 }
 // Output

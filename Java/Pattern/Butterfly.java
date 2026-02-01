@@ -29,6 +29,7 @@ public class Butterfly {
                 System.out.print("*");
             }
             System.out.println();
+           scan.close(); 
         }
 
     }

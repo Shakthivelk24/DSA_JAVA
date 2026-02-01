@@ -23,6 +23,7 @@ public class InvertedTriangle {
             }
             System.out.println();
         }
+        input.close();
     }
 }
 
