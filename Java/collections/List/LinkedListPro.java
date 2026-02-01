@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-import java.util.Stack;
+
 
 public class LinkedListPro {
     public static void main(String[] args) {
