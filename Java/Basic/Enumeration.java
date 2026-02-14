@@ -1,9 +1,9 @@
-public class Enumeration {
-    enum Day {
+enum Day {
         MONDAY, TUESDAY, WEDNESDAY, THURSDAY,
         FRIDAY, SATURDAY, SUNDAY
-    }
+}
 
+public class Enumeration {
     public static void main(String[] args) {
         Day today = Day.MONDAY;
 
