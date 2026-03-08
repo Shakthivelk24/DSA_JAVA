@@ -14,3 +14,7 @@ public class EnumExample4 {
         }
     }
 }
+// Output
+// RED
+// GREEN
+// BLUE

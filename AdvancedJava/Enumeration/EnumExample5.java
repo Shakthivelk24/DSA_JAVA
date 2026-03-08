@@ -21,3 +21,9 @@ public class EnumExample5 {
 		System.out.println("Color contains " + c);
     }
 }
+// Output
+// Color Constants:
+// RED
+// GREEN
+// BLUE
+// Color contains RED

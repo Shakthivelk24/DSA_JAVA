@@ -12,3 +12,6 @@ public class EnumExample2 {
         System.out.println(c);
     }
 }
+
+// Output
+// BLUE

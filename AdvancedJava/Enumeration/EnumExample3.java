@@ -36,3 +36,5 @@ public class EnumExample3 {
         e.seasonDisplay();
     }
 }
+// Output
+// Winter Season

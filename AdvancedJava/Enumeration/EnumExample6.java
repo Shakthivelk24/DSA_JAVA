@@ -33,3 +33,19 @@ public class EnumExample6 {
                     " days.");
     }
 }
+
+// Output
+// June has 30 days.
+// All Months and Days:
+// JAN has 31 days.
+// FEB has 28 days.
+// MAR has 31 days.
+// APR has 30 days.
+// MAY has 31 days.
+// JUNE has 30 days.
+// JULY has 31 days.
+// AUG has 31 days.
+// SEPT has 30 days.
+// OCT has 31 days.
+// NOV has 30 days.
+// DEC has 31 days.
