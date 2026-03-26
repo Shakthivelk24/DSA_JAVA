@@ -31,3 +31,12 @@ public class IteratorDemo2 {
         }
     }
 }
+
+// Output:
+// Student Names:
+// Ananya
+// Rahul
+// Kiran
+// Sneha
+// Vikram
+// Pooja
